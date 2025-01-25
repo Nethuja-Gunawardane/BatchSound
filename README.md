@@ -8,4 +8,4 @@ cmd/batch: `batchsound.vbs [yourfile.extension]`
 
 Supports .MP3, .WAV and .WMA file extensions.
 
-*Some features are yet to be added (such as looping)*
+*Some features are yet to be added (such as looping).*
